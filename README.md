@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alisabah Separ</h1>
 <img src="banner.png" align="center" alt="banner">
 <h3 align="center">A passionate frontend & backend developer living in Belgium</h3>
 <img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF2ZGhuc3cwOHplMmwxNHN0bG05cjI0cThwbHEwaGxmdjNkYml0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
