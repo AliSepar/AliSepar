@@ -1,17 +1,22 @@
 <img src="banner.png" align="center" alt="banner">
-<h3 align="center">A passionate frontend & backend developer living in Belgium</h3>
+<h3 align="center">A dedicated full-stack web developer passionate about crafting seamless digital experiences, based in Belgium.</h3>
 <img align="right" alt="coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF2ZGhuc3cwOHplMmwxNHN0bG05cjI0cThwbHEwaGxmdjNkYml0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisepar&label=Profile%20views&color=0e75b6&style=flat" alt="alisepar" /> </p>
 
-- 🌱 I’m currently learning **frontend & backend technologies (Html, css, talwind,bootstrap/php, Nodejs, databases ...)**
+### 🌟 About Me:
+- I'm a passionate **junior web developer** with a strong foundation in both **frontend** and **backend** technologies.
+- I recently completed an intensive **web development training program** at **BeCode Brussels**, where I gained hands-on experience working on real-world projects and collaborating with teams. 
 
-- 👩🏻‍💻 I’m enrolled in an immersive web development training program with [BeCode](https://becode.org/), where I'm honing my skills and building projects until December. 
+### 🚀 What I'm Doing Now:
+- Continuing to enhance my skills through **personal projects** and learning **new technologies**.  
+- Seeking opportunities to contribute to **real-world projects** and grow within a collaborative environment.  
 
-- 💬 Ask me about **html, css, talwind, php, NodeJs**
+### 📩 Let's Connect:
+- Email me at **alisabah.separ1@gmail.com**  
+- Check out my **[CV](https://www.canva.com/design/DAGOxXDpeuI/_Dxo2duyDND4OKZDlQEqpA/view?utm_content=DAGOxXDpeuI&utm_campaign=designshare&utm_medium=link&utm_source=editor)** to learn more about my experiences and projects.  
 
-- 📫 How to reach me **alisabah.separ1@gmail.com**
-
-- 📄 Know about my experiences [Check my CV](https://www.canva.com/design/DAGOxXDpeuI/_Dxo2duyDND4OKZDlQEqpA/view?utm_content=DAGOxXDpeuI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+### 💬 Ask Me About:
+- HTML, CSS, TailwindCSS, PHP, Node.js, and other web development topics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
